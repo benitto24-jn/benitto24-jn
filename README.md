@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **benitto24.2012@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
